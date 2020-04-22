@@ -1,0 +1,21 @@
+{
+  "bibles":  {
+    "en": ["NASB", "KJV", "engNET2016eb"],
+    "fi": ["FinRK", "FinSTLK2017"],
+    "es": ["spaRV1909eb"],
+    "de": ["deu1912eb"],
+    "es": ["NBLA", "LBLA"]
+  },
+  "commentaries": {
+    "en": ["Gill", "MHC", "TSKe"]
+  },
+  "dictionaries": {
+    "en": ["StrongsRealGreek", "StrongsRealHebrew"]
+  },
+  "books": {
+    "en": ["OpenHymnal"]
+  },
+  "maps": {
+    "en": ["SmithBibleAtlas"]
+  }
+}
