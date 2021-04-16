@@ -1,0 +1,26 @@
+name: Update beta mods.d.tar.gz
+
+on:
+  push:
+    branches: 
+      - master
+    paths:
+      - 'andbible/beta/mods.d/*'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Tar mods.d
+      run: |
+        cd andbible/beta
+        tar cvfz mods.d.tar.gz mods.d
+        git config user.email "ci@andbible.github.io"
+        git config user.name "Auto CI"
+        git add mods.d.tar.gz
+        git commit -m "Auto-updated compressed mods configs for beta" || echo "No changes to commit"
+        git push -v origin master
