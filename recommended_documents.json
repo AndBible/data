@@ -1,6 +1,6 @@
 {
   "bibles":  {
-    "en": ["NASB", "engKJV2006eb", "engNET2016eb"],
+    "en": ["NASB", "KJV", "NETfree"],
     "fi": ["FinRK", "FinSTLK2017"],
     "es": ["spaRV1909eb", "NBLA", "LBLA"],
     "de": ["deu1912eb"]
