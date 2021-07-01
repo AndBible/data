@@ -6,7 +6,9 @@
     "de": ["deu1912eb"]
   },
   "commentaries": {
-    "en": ["Gill", "MHC", "TSKe"]
+    "en": ["Gill", "MHC", "TSKe", "KingComm"],
+    "nl": ["DutKingComm"],
+    "de": ["GerKingComm"]
   },
   "dictionaries": {
     "en": ["StrongsRealGreek", "StrongsRealHebrew"]
