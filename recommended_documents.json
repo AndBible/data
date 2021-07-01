@@ -2,7 +2,7 @@
   "bibles":  {
     "en": ["NASB", "KJV", "NETfree"],
     "fi": ["FinRK", "FinSTLK2017"],
-    "es": ["spaRV1909eb", "NBLA", "LBLA"],
+    "es": ["spaRV1909", "NBLA", "LBLA"],
     "de": ["deu1912eb"]
   },
   "commentaries": {
