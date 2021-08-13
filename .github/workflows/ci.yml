@@ -8,7 +8,7 @@ on:
       - 'andbible/mods.d/*'
 
 permissions:
-    content: write
+    contents: write
 
 jobs:
   build:
