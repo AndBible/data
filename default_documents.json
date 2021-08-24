@@ -1,0 +1,20 @@
+{
+  "bibles":  {
+    "en": ["NASB", "KJV"]
+  },
+  "commentaries": {
+    "en": ["TSKe", "KingComm"]
+  },
+  "dictionaries": {
+    "en": ["StrongsRealGreek", "StrongsRealHebrew"]
+  },
+  "books": {
+    "en": []
+  },
+  "maps": {
+    "en": []
+  },
+  "addons": {
+    "en": ["FontPack", "RefParser"]
+  }
+}
