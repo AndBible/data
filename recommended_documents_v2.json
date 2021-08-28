@@ -1,0 +1,22 @@
+{
+  "bibles":  {
+    "en": ["NASB::Lockman (CrossWire)", "KJV", "NETfree"],
+    "fi": ["FinRK", "FinSTLK2017"],
+    "es": ["spaRV1909", "NBLA::Lockman (CrossWire)", "LBLA::Lockman (CrossWire)"],
+    "de": ["deu1912eb::eBible"]
+  },
+  "commentaries": {
+    "en": ["Gill::AndBible Extra", "MHC::CrossWire", "TSKe::AndBible", "KingComm::CrossWire"],
+    "nl": ["DutKingComm::CrossWire"],
+    "de": ["GerKingComm::CrossWire"]
+  },
+  "dictionaries": {
+    "en": ["StrongsRealGreek::AndBible", "StrongsRealHebrew::AndBible"]
+  },
+  "books": {
+    "en": ["OpenHymnal::AndBible Extra"]
+  },
+  "maps": {
+    "en": ["SmithBibleAtlas::AndBible Extra"]
+  }
+}

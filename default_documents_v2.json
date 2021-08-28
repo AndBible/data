@@ -1,0 +1,20 @@
+{
+  "bibles":  {
+    "en": ["NASB::Lockman (CrossWire)", "KJV::CrossWire"]
+  },
+  "commentaries": {
+    "en": ["TSKe::AndBible", "KingComm::CrossWire"]
+  },
+  "dictionaries": {
+    "en": ["StrongsRealGreek::AndBible", "StrongsRealHebrew::AndBible", "Robinson::CrossWire"]
+  },
+  "books": {
+    "en": []
+  },
+  "maps": {
+    "en": []
+  },
+  "addons": {
+    "en": ["FontPack::AndBible"]
+  }
+}
