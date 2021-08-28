@@ -1,8 +1,8 @@
 {
   "bibles":  {
-    "en": ["NASB::Lockman (CrossWire)", "KJV", "NETfree"],
-    "fi": ["FinRK", "FinSTLK2017"],
-    "es": ["spaRV1909", "NBLA::Lockman (CrossWire)", "LBLA::Lockman (CrossWire)"],
+    "en": ["NASB::Lockman (CrossWire)", "KJV::CrossWire", "NETfree::CrossWire"],
+    "fi": ["FinRK::CrossWire", "FinSTLK2017::CrossWire"],
+    "es": ["SpaRV1909::CrossWire", "NBLA::Lockman (CrossWire)", "LBLA::Lockman (CrossWire)"],
     "de": ["deu1912eb::eBible"]
   },
   "commentaries": {
