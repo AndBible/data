@@ -6,7 +6,7 @@
     "en": ["TSKe::AndBible", "KingComm::CrossWire"]
   },
   "dictionaries": {
-    "en": ["StrongsRealGreek::AndBible", "StrongsRealHebrew::AndBible", "Robinson::CrossWire"]
+    "en": ["StrongsGreek::AndBible", "StrongsHebrew::AndBible", "Robinson::CrossWire"]
   },
   "books": {
     "en": []

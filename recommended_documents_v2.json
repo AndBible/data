@@ -11,7 +11,7 @@
     "de": ["GerKingComm::CrossWire"]
   },
   "dictionaries": {
-    "en": ["StrongsRealGreek::AndBible", "StrongsRealHebrew::AndBible"]
+    "en": ["StrongsGreek::AndBible", "StrongsHebrew::AndBible"]
   },
   "books": {
     "en": ["OpenHymnal::AndBible Extra"]
