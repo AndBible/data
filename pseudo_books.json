@@ -1,18 +1,18 @@
 [
 {
 "id": "ESV",
-"description": "You might like NASB translation as an option."
+"suggested": "You might like NASB translation as an option."
 },
 {
 "id": "NIV",
-"description": "You might like NASB translation as an option."
+"suggested": "You might like NASB translation as an option."
 },
 {
 "id": "Message",
-"description": "The PEV is a natural language like the Message Bible."
+"suggested": "The PEV is a natural language like the Message Bible."
 },
 {
 "id": "Amplified",
-"description": ""Tip: You can perform deep word meanings study by installing a module that supports Strongs (NASB or KJV for example) and installing Strongs dictionary modules (for example, StrongsHebrew and StrongsGreek)."
+"suggested": ""Tip: You can perform deep word meanings study by installing a module that supports Strongs (NASB or KJV for example) and installing Strongs dictionary modules (for example, StrongsHebrew and StrongsGreek)."
 }
 ]
