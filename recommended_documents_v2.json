@@ -14,7 +14,8 @@
     "en": ["StrongsGreek::AndBible", "StrongsHebrew::AndBible"]
   },
   "books": {
-    "en": ["OpenHymnal::AndBible Extra"]
+    "en": ["OpenHymnal::AndBible Extra"],
+    "fi": ["LBCF1689FIN::AndBible"]
   },
   "maps": {
     "en": ["SmithBibleAtlas::AndBible Extra"]
