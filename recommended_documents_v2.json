@@ -18,6 +18,6 @@
     "fi": ["LBCF1689FIN::AndBible"]
   },
   "maps": {
-    "en": ["SmithBibleAtlas::AndBible Extra"]
+    "en": ["EpiphanyMaps::AndBible Extra"]
   }
 }
