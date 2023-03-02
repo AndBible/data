@@ -1,0 +1,9 @@
+{
+ "name": "AndBible broken test",
+ "description": "Test module repository maintained by AndBible development team",
+ "manifestUrl": "https://andbible.github.io/data/andbible/test/manifest-broken.json",
+ "type": "sword-https",
+ "host": "broken.asdf.io.broken",
+ "catalogDirectory": "/data/andbible/test",
+ "packageDirectory": "/data/andbible/test/zip"
+}
