@@ -1,8 +1,9 @@
 {
- "type": "SWORD",
  "name": "AndBible",
  "description": "Module repository maintained by AndBible development team",
  "manifestUrl": "https://andbible.github.io/data/andbible/manifest.json",
- "swordRepositoryRootUrl": "https://andbible.github.io/data/andbible",
- "swordPackagesUrl": "https://andbible.github.io/data/andbible/zip"
+ "type": "sword-https",
+ "host": "andbible.github.io",
+ "catalogDirectory": "/data/andbible",
+ "packageDirectory": "/data/andbible/zip"
 }
