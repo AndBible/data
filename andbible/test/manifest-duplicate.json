@@ -1,0 +1,9 @@
+{
+ "name": "AndBible",
+ "description": "Test module repository maintained by AndBible development team",
+ "manifestUrl": "https://andbible.github.io/data/andbible/test/manifest-duplicate.json",
+ "type": "sword-https",
+ "host": "andbible.github.io",
+ "catalogDirectory": "/data/andbible/test",
+ "packageDirectory": "/data/andbible/test/zip"
+}
