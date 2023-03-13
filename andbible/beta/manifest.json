@@ -1,0 +1,9 @@
+{
+ "name": "AndBible Beta",
+ "description": "Beta module repository maintained by AndBible development team",
+ "manifestUrl": "https://andbible.github.io/data/andbible/beta/manifest.json",
+ "type": "sword-https",
+ "host": "andbible.github.io",
+ "catalogDirectory": "/data/andbible/beta",
+ "packageDirectory": "/data/andbible/beta/zip"
+}
