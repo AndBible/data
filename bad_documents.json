@@ -1,0 +1,14 @@
+{
+  "bibles":  {
+    "en": ["OEB::CrossWire::1.1"]
+  },
+  "commentaries": {
+  },
+  "dictionaries": {
+     "en": ["StrongsGreek::CrossWire::1.2", "StrongsHebrew::CrossWire::1.2"]
+  },
+  "books": {
+  },
+  "maps": {
+  }
+}
