@@ -1,11 +1,11 @@
 {
   "bibles":  {
-    "en": ["OEB::CrossWire::1.1"]
+    "en": ["OEB::CrossWire::1.1::W"]
   },
   "commentaries": {
   },
   "dictionaries": {
-     "en": ["StrongsGreek::CrossWire::1.2", "StrongsHebrew::CrossWire::1.2"]
+     "en": ["StrongsGreek::CrossWire::1.2::H", "StrongsHebrew::CrossWire::1.2::H"]
   },
   "books": {
   },
