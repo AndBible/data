@@ -6,6 +6,7 @@ on:
       - master
     paths:
       - 'andbible/beta/mods.d/*'
+  workflow_dispatch:
 
 permissions:
     contents: write
