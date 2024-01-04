@@ -6,9 +6,9 @@
     "de": ["deu1912eb::eBible"]
   },
   "commentaries": {
-    "en": ["Gill::AndBible Extra", "MHC::CrossWire", "TSKe::AndBible", "KingComm::CrossWire"],
-    "nl": ["DutKingComm::CrossWire"],
-    "de": ["GerKingComm::CrossWire"]
+    "en": ["Gill::AndBible Extra", "MHC::CrossWire", "TSKe::AndBible", "KingComments::CrossWire"],
+    "nl": ["DutKingComments::CrossWire"],
+    "de": ["GerKingComments::CrossWire"]
   },
   "dictionaries": {
     "en": ["StrongsGreek::AndBible", "StrongsHebrew::AndBible"]
