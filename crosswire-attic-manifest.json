@@ -1,7 +1,7 @@
 {
   "name": "Crosswire Attic",
   "description": "Official module repository from CrossWire Bible Society for the previous version of released modules",
-  "manifestUrl": "https://andbible.github.io/data/andbible/crosswire-attic-manifest.json",
+  "manifestUrl": "https://andbible.github.io/data/crosswire-attic-manifest.json",
   "type": "sword-https",
   "host": "ftp.crosswire.org",
   "catalogDirectory": "/ftpmirror/pub/sword/atticraw",
